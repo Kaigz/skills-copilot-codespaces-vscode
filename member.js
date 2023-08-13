@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   const member = document.getElementById('member');
   const memberBtn = document.getElementById('memberBtn');
   const memberClose = document.getElementById('memberClose');
